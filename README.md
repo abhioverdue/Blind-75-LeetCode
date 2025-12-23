@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0133-clone-graph](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0133-clone-graph) |
 ## String
 |  |
 | ------- |
@@ -22,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0133-clone-graph) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
