@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0207-course-schedule) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0207-course-schedule) |
@@ -231,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0238-product-of-array-except-self) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
