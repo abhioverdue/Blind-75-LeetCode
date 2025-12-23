@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -178,12 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
