@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0139-word-break) |
 ## Linked List
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
