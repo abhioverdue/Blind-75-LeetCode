@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0056-merge-intervals) |
 | [0139-word-break](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Stack
