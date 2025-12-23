@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0143-reorder-list) |
+| [0647-palindromic-substrings](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
 |  |
