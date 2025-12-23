@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
