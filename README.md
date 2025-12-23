@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Trie
 |  |
