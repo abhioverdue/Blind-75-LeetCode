@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0054-spiral-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
