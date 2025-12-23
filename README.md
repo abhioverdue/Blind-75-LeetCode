@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0647-palindromic-substrings](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Graph
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -256,4 +260,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+## Design
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
