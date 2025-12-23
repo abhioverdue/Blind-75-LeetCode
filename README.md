@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0572-subtree-of-another-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0572-subtree-of-another-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0572-subtree-of-another-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Design
 |  |
 | ------- |
@@ -269,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
