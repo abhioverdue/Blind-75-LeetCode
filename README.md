@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0572-subtree-of-another-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0572-subtree-of-another-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0572-subtree-of-another-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Design
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## String Matching
 |  |
